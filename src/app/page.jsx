@@ -3,7 +3,7 @@
  * are JS methods that are called from other JS files.
  */
 import { centered } from "@/styleClass"
-import DataTable from "../components/DataTable"
+import DataTable from "./components/DataTable"
 
 
 export default function sample() {
@@ -15,4 +15,3 @@ export default function sample() {
     </main>
   )
 }
-
